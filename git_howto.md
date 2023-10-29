@@ -12,7 +12,10 @@ git add
 ```sh
 git commit -m "Messsge"
 ```
-* git log
-* git log --oneline
+### История изменений, внесенных в файл GIT
+```sh
+* git log (подробно)
+* git log --oneline (кратко)
+```
 * git chekout
 * git diff
