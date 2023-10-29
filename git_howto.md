@@ -6,9 +6,12 @@ git init
 ```
 #### Добавление файла в GIT
 ```sh
-* git add
+git add
 ```
-* git commit -m "Messsge"
+### Сохранение внесенных изменений файла в GIT с сообщением.
+```sh
+git commit -m "Messsge"
+```
 * git log
 * git log --oneline
 * git chekout
