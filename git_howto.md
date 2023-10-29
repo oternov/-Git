@@ -22,4 +22,7 @@ git commit -m "Messsge"
 * git checkout (определенное сохранение)
 * git checkout master (актуальная версия)
 ```
-* git diff
+### Просмотр списка несохранённых изменений
+```sh
+git diff
+```
