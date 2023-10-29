@@ -18,13 +18,13 @@ git commit -m "Message"
 ```
 ### *История изменений, внесенных в файл GIT*
 ```sh
-* git log (подробно)
-* git log --oneline (кратко)
+git log (подробно)
+git log --oneline (кратко)
 ```
 ### *Переход по разным версиям файла GIT*
 ```sh
-* git checkout (определенное сохранение)
-* git checkout master (актуальная версия)
+git checkout (определенное сохранение)
+git checkout master (актуальная версия)
 ```
 ### *Просмотр списка несохранённых изменений*
 ```sh
