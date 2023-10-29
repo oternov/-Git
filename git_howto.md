@@ -30,3 +30,7 @@ git commit -m "Messsge"
 ```sh
 git diff
 ```
+### *Отмена изменений в файле*
+```sh
+git restore
+```
