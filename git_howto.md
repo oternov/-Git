@@ -17,5 +17,8 @@ git commit -m "Messsge"
 * git log (подробно)
 * git log --oneline (кратко)
 ```
-* git chekout
+### Переход по разным версиям файда GIT
+```sh
+git chekout
+```
 * git diff
