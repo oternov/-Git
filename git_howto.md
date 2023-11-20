@@ -14,7 +14,7 @@ git add
 ```
 ### *Сохранение внесенных изменений файла в GIT с сообщением*
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 ### *История изменений, внесенных в файл GIT*
 ```sh
