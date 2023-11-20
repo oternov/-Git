@@ -40,9 +40,9 @@ git restore
 git branch
 ```
 
-Создание новой ветки
+Новая ветка в гите
 ```sh
-git branch <имя_ветки>
+git branch <branch_name>
 ```
 
 ### *Переход на другую ветку*
