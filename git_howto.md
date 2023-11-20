@@ -42,7 +42,7 @@ git branch
 
 ### Переключение веток
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 
 ### Слияние веток
