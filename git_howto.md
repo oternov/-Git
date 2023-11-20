@@ -34,3 +34,18 @@ git diff
 ```sh
 git restore
 ```
+
+### Просмотр текущих веток
+```sh
+git branch
+```
+
+### Переключение веток
+```sh
+git checkout
+```
+
+### Слияние веток
+```sh
+git merge
+```
