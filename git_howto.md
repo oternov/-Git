@@ -40,6 +40,11 @@ git restore
 git branch
 ```
 
+Создание новой ветки
+```sh
+git branch <имя_ветки>
+```
+
 ### Переключение веток
 ```sh
 git checkout <branch_name>
